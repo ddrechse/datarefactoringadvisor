@@ -9,3 +9,5 @@ Descriptive Blurb
 [Create Graph Tables](./create-graph-tables/README.md)
 
 [Create Graph with Graph Studio](./create-graph/README.md)
+
+[Run Community Detection with a Notebook](./community-detection/README.md)
